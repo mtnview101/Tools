@@ -1,6 +1,6 @@
-########################################
-Automation tools in Dmitry use
-########################################
+
+#Automation tools in Dmitry use#
+
 
 .. class:: no-web
 
@@ -52,6 +52,7 @@ Markdown editor
 ----------------
 
 * `StackEdit <https://stackedit.io/editor>`_
+* `DaringFireBall <https://daringfireball.net/projects/markdown/syntax#p>`_
 
 ----------------
 .gitignore
