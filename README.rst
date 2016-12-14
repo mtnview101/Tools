@@ -37,7 +37,7 @@ README template
 
 On GitHub, if a Git repository has a README file in its main (top-level) directory, the README file is automatically converted into formatted HTML and presented on the main web page of the git repository, underneath the list of files and directories in the repository. Various different file extensions can be used, but there should not be more than one file named "README" at the top-level of a GitHub repository. The conversion to HTML takes account of the file extension of the file – for example, naming the README file for a GitHub repository "README.md" would cause GitHub to treat it as a GitHub-flavored `Markdown <https://en.wikipedia.org/wiki/Markdown>`_ file, which is also the default README file format on GitHub.
 
-Please use the following templates:  
+Templates:  
 
 * `example 01 <https://github.com/dbader/readme-template>`_ 
 * `example 02 <https://gist.github.com/PurpleBooth/109311bb0361f32d87a2>`_ 
